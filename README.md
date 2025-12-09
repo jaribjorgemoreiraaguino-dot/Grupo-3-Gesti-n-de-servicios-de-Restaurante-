@@ -47,7 +47,7 @@ de pago, reportes u otros módulos requeridos en futuras versiones.
 
 ### Diagrama de Clases
 
-
+![image alt](https://github.com/jaribjorgemoreiraaguino-dot/Grupo-3-Gesti-n-de-servicios-de-Restaurante-/blob/81b1fb7efd3a60b04adc8bee7665d0f0f514a4e6/diagrama%20de%20empleado.png)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Incluye: - **fecha** - **servicio asociado** - **monto total**
 
 ## Evidencias
 
-![Ejecución](captura.png)
+![image alt](https://github.com/jaribjorgemoreiraaguino-dot/Grupo-3-Gesti-n-de-servicios-de-Restaurante-/blob/81b1fb7efd3a60b04adc8bee7665d0f0f514a4e6/Captura%20de%20pantalla%202025-12-09%20130605.png)
 
 ------------------------------------------------------------------------
 
